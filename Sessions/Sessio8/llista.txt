@@ -1,0 +1,16 @@
+
+Message
+msqid
+
+Shared
+shmid
+0
+
+Semaphore
+semid
+0
+32769
+65538
+98307
+131076
+
